@@ -1,5 +1,5 @@
 //insertion at end 
-public class task2 {
+public class insertion_end {
     //Function to insert a given key in the array .This Function 
     //Returns n+1 if insertion is successful, else n.
 

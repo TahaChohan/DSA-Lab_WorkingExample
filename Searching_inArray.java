@@ -1,4 +1,4 @@
-class task1{
+class Searching_inArray{
 
     //Function to implment
     //searchoperation 
